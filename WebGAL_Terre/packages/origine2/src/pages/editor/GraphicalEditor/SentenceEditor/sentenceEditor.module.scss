@@ -1,0 +1,51 @@
+.sentenceEditorContent {
+  display: flex;
+  align-items: flex-start;
+  flex-flow: column;
+}
+
+.editItem {
+  display: flex;
+  //align-items: center;
+  align-items: stretch;
+  // margin: 4px 0 0 0;
+  width: 100%;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+
+.flex1 {
+  flex: 1;
+}
+
+.sayInput {
+  box-shadow: none;
+  appearance: none;
+  outline: none;
+  color: var(--text);
+  background: var(--bg-input);
+  border: var(--border-md);
+  padding: 6px 6px 6px 6px;
+  border-radius: var(--radius-md);
+  // font-size: 95%;
+  width: 50%;
+}
+
+.sayArea {
+  color: var(--text);
+  background: var(--bg-input);
+  border: var(--border-md);
+  width: 75%;
+  font-family: inherit;
+  box-shadow: none;
+  outline: none;
+  resize: none;
+  padding: 6px 6px 6px 6px;
+  border-radius: var(--radius-md);
+  // font-size: 95%;
+  height: 5em;
+}
+
+.iconParkIcon > svg > path{
+  stroke: var(--text);
+}

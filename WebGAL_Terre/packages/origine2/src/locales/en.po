@@ -1,0 +1,1838 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-04-03 21:59+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: en\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+msgid ";注释"
+msgstr "Comment"
+
+msgid "*设置拾色器后，点击此按钮以保存更改"
+msgstr "*Click this button to save changes after setting color picker"
+
+msgid "%"
+msgstr "%"
+
+msgid "<0>应用新的模板</0>"
+msgstr "<0>Apply a new template</0>"
+
+msgid "<0>当前应用的模板：{currentTemplateName}</0>"
+msgstr "<0>Current template: {currentTemplateName}</0>"
+
+msgid "1, 2, 3, ..."
+msgstr "1, 2, 3, ..."
+
+msgid "BGM"
+msgstr "BGM"
+
+msgid "BGM 音量"
+msgstr "BGM volume"
+
+msgid "bgm:选择背景音乐;"
+msgstr "bgm: Choose a BGM;"
+
+msgid "callScene:选择场景文件;"
+msgstr "callScene: Choose a scene file;"
+
+msgid "callSteam: -achievementId=;"
+msgstr "callSteam: -achievementId=;"
+
+msgid "CG"
+msgstr "CG"
+
+msgid "changeBg: 选择背景图片;"
+msgstr "changeBg: Choose a background;"
+
+msgid "changeFigure:选择立绘文件;"
+msgstr "changeFigure: Choose a file of figure;"
+
+msgid "changeScene:选择场景文件;"
+msgstr "changeScene: Choose a file of scene;"
+
+msgid "choose:选项:选择场景文件;"
+msgstr "choose: Choose a scene file;"
+
+msgid "CSS 属性值"
+msgstr "CSS Property Value"
+
+msgid "CSS 属性名："
+msgstr "CSS Property Name"
+
+msgid "end;"
+msgstr "end;"
+
+msgid "font-family"
+msgstr "font-family"
+
+msgid "getUserInput:;"
+msgstr "getUserInput:;"
+
+msgid "Intro 文本"
+msgstr "Intro texts"
+
+msgid "intro:;"
+msgstr "intro:;"
+
+msgid "Live2D 动作"
+msgstr "Live2D Motion"
+
+msgid "Live2D 表情"
+msgstr "Live2D Expression"
+
+msgid "miniAvatar:选择小头像;"
+msgstr "miniAvatar: Choose a file of avatar;"
+
+msgid "pixiInit;"
+msgstr "pixiInit;"
+
+msgid "pixiPerform:snow;"
+msgstr "pixiPerform:snow;"
+
+msgid "playEffect:选择效果音文件;"
+msgstr "playEffect: Choose a sound effect file;"
+
+msgid "playVideo:选择视频文件;"
+msgstr "playVideo: Choose a video file;"
+
+msgid "RGB电影滤镜"
+msgstr "RGB film"
+
+msgid "setAnimation:选择动画文件;"
+msgstr "setAnimation: Choose a file of animation;"
+
+msgid "setTextbox:hide;"
+msgstr "setTextbox:hide;"
+
+msgid "setTransform: -duration=0;"
+msgstr "setTransform: -duration=0;"
+
+msgid "setTransition:;"
+msgstr "setTransition:;"
+
+msgid "Spine 动画"
+msgstr "Spine animation"
+
+msgid "Steam AppID"
+msgstr "Steam AppID"
+
+msgid "unlockBgm:;"
+msgstr "unlockBgm:;"
+
+msgid "unlockCg:;"
+msgstr "unlockCg:;"
+
+msgid "WebGAL Classic"
+msgstr "WebGAL Classic"
+
+msgid "WebGAL Standard"
+msgstr "WebGAL Standard"
+
+msgid "X轴位移"
+msgstr "X"
+
+msgid "X轴缩放"
+msgstr "Scale x"
+
+msgid "Y轴位移"
+msgstr "Y"
+
+msgid "Y轴缩放"
+msgstr "Scale y"
+
+msgid "z-index"
+msgstr "z-index"
+
+msgid "一直显示功能区"
+msgstr "Always Show Toolbar"
+
+msgid "上一步"
+msgstr "Previous"
+
+msgid "上传"
+msgstr "Upload"
+
+msgid "上传字体文件"
+msgstr "Upload font file"
+
+msgid "上传资源"
+msgstr "Upload asset"
+
+msgid "上移"
+msgstr "Move up"
+
+msgid "下一步"
+msgstr "Next"
+
+msgid "下移"
+msgstr "Move down"
+
+msgid "不可选项"
+msgstr "Not selectable item"
+
+msgid "不拼接先前文本框内的语句"
+msgstr "No concat with previous text"
+
+msgid "不显示角色名"
+msgstr "Hide the role name"
+
+msgid "不设定"
+msgstr "Not set"
+
+msgid "两端对齐"
+msgstr "Align on both sides"
+
+msgid "个字"
+msgstr " Words"
+
+msgid "中"
+msgstr "Medium"
+
+msgid "中间"
+msgstr "Center"
+
+msgid "中间立绘"
+msgstr "Figure at center"
+
+msgid "为当前的舞台添加特殊效果"
+msgstr "Apply the special effect for stage"
+
+msgid "为立绘或背景图片设置动画效果"
+msgstr "Set the animation effect for the figure or background"
+
+msgid "为立绘或背景图片设置效果或变换"
+msgstr "Setting effects or transformations for a figure or background image."
+
+msgid "主要样式"
+msgstr "Main Style"
+
+msgid "主页"
+msgstr "WebGAL Home"
+
+msgid "主题"
+msgstr "Theme"
+
+msgid "亮度"
+msgstr "Brightness"
+
+msgid "代码编辑器"
+msgstr "Code Editor"
+
+msgid "伽马值"
+msgstr "Gamma"
+
+msgid "使用中的模板："
+msgstr "Template in use: "
+
+msgid "使用引擎内置的特效"
+msgstr "Use the special effects prepared in engine"
+
+msgid "使用特效"
+msgstr "Apply special effect"
+
+msgid "使用立绘ID"
+msgstr "Figure ID"
+
+msgid "使用自定义特效"
+msgstr "Use the special effects defined by user"
+
+msgid "使用预制特效"
+msgstr "Use prepared special effects"
+
+msgid "使用预设的作用目标，如果设置了id则不生效"
+msgstr "Use prepared apply target, if target set the ID, it won't apply"
+
+msgid "使用预设目标"
+msgstr "Use prepared target"
+
+msgid "例如：-100,-100,100,100"
+msgstr "For example: -100,-100,100,100 "
+
+msgid "侧边栏"
+msgstr "Sidebar"
+
+msgid "侧边栏游戏预览"
+msgstr "Sidebar Game Preview"
+
+msgid "保存"
+msgstr "Save"
+
+msgid "保存中..."
+msgstr "Saving..."
+
+msgid "保存模板配置失败，请稍后重试"
+msgstr "Failed to save template configuration, please try again later"
+
+msgid "保持闭眼(毫秒)"
+msgstr "Closed duration (ms)"
+
+msgid "修改时间"
+msgstr "Last modified"
+
+msgid "修改游戏图标"
+msgstr "Change game icon"
+
+msgid "修改颜色"
+msgstr "Edit Color"
+
+msgid "倒角"
+msgstr "bevel"
+
+msgid "值"
+msgstr "Value"
+
+msgid "偏移"
+msgstr "Offset"
+
+msgid "偏移右侧距离（定位用）"
+msgstr "Offset right (for positioning)"
+
+msgid "偏移左侧距离（定位用）"
+msgstr "Offset left (for positioning)"
+
+msgid "偏移底部距离（定位用）"
+msgstr "Offset bottom (for positioning)"
+
+msgid "偏移顶部距离（定位用）"
+msgstr "Offset top (for positioning)"
+
+msgid "停止 BGM"
+msgstr "Stop the BGM"
+
+msgid "像素"
+msgstr "pixel"
+
+msgid "光辉电影滤镜"
+msgstr "Godray film"
+
+msgid "入场时长（单位为毫秒）"
+msgstr "Entry duration (milliseconds)"
+
+msgid "全屏文字"
+msgstr "Full-screen text"
+
+msgid "全屏显示一段文字，用于独白或引出场景"
+msgstr "Show some texts on Full-screen"
+
+msgid "关于"
+msgstr "About"
+
+msgid "关联立绘"
+msgstr "Associated figure"
+
+msgid "关闭"
+msgstr "Disabled"
+
+msgid "关闭小头像"
+msgstr "Hide the avatar"
+
+msgid "关闭效果音"
+msgstr "Stop the sound effect"
+
+msgid "关闭立绘"
+msgstr "Hide the figure"
+
+msgid "关闭背景"
+msgstr "Hide the background"
+
+msgid "关闭预览窗口"
+msgstr "Close the preview window"
+
+msgid "内层文本"
+msgstr "Inner Text"
+
+msgid "内边距"
+msgstr "Padding"
+
+msgid "最大宽度"
+msgstr "Max Width"
+
+msgid "最大高度"
+msgstr "Max Height"
+
+msgid "最小宽度"
+msgstr "Min Width"
+
+msgid "最小高度"
+msgstr "Min Height"
+
+msgid "最新版本"
+msgstr "Latest Version"
+
+msgid "写入变量"
+msgstr "Write Variable"
+
+msgid "分支选择"
+msgstr "Choose branch"
+
+msgid "切换到另一个场景文件，并清除当前场景"
+msgstr "Turn to new scene, and clear this scene"
+
+msgid "切换场景"
+msgstr "Change scene"
+
+msgid "切换场景，新场景直接替换父场景"
+msgstr "Change scene, new scene will replace old scene"
+
+msgid "切换立绘"
+msgstr "Change figure"
+
+msgid "切换背景"
+msgstr "Change background"
+
+msgid "切换背景图片"
+msgstr "Change background image"
+
+msgid "列表视图"
+msgstr "List view"
+
+msgid "创建"
+msgstr "Create"
+
+msgid "创建副本"
+msgstr "Create a copy"
+
+msgid "创建新模板"
+msgstr "Create new template"
+
+msgid "创建新游戏"
+msgstr "Create new game"
+
+msgid "删除"
+msgstr "Delete"
+
+msgid "删除属性"
+msgstr "Delete Property"
+
+msgid "删除本句"
+msgstr "Delete this sentence"
+
+msgid "删除模板"
+msgstr "Delete template"
+
+msgid "删除游戏"
+msgstr "Delete game"
+
+msgid "刷新"
+msgstr "Refresh"
+
+msgid "刷新游戏"
+msgstr "Refresh game"
+
+msgid "前景"
+msgstr "Foreground"
+
+msgid "功能区显示"
+msgstr "Functional Area"
+
+msgid "加粗"
+msgstr "Bold"
+
+msgid "动画"
+msgstr "Animation"
+
+msgid "半张嘴"
+msgstr "Half open mouth"
+
+msgid "单位毫秒。 0~ 有效"
+msgstr "Unit milliseconds. 0~ valid"
+
+msgid "单行注释"
+msgstr "Single line comment"
+
+msgid "厚度"
+msgstr "Thickness"
+
+msgid "参数值"
+msgstr "Parameter Value"
+
+msgid "反射电影滤镜"
+msgstr "Reflection film filter"
+
+msgid "发布的游戏可以在 <0>https://www.openwebgal.com/games/</0> 展示，欢迎分享你的作品！"
+msgstr "You can showcase your published game at <0>https://www.openwebgal.com/games/</0>. Share your work!"
+
+msgid "发现新版本"
+msgstr "New version detected"
+
+msgid "取消"
+msgstr "Cancel"
+
+msgid "取消固定"
+msgstr "Unpin"
+
+msgid "变换"
+msgstr "Transform"
+
+msgid "可选项"
+msgstr "Selectable options"
+
+msgid "右侧"
+msgstr "Right"
+
+msgid "右侧立绘"
+msgstr "Right side figure"
+
+msgid "右对齐"
+msgstr "Right Align"
+
+msgid "启动、切换或停止背景音乐的播放"
+msgstr "Start, switch or stop the playback of background music"
+
+msgid "启动图"
+msgstr "Startup image"
+
+msgid "启用"
+msgstr "Enabled"
+
+msgid "启用视频跳过"
+msgstr "Enable video skipping"
+
+msgid "唇形同步与眨眼"
+msgstr "Lip sync and blinking"
+
+msgid "固定弹窗"
+msgstr "Pin popup"
+
+msgid "图像"
+msgstr "Image"
+
+msgid "图形编辑器"
+msgstr "Graphical editor"
+
+msgid "图片"
+msgstr "Image"
+
+msgid "圆形"
+msgstr "Circle"
+
+msgid "圆形缓入"
+msgstr "Circ in"
+
+msgid "圆形缓入缓出"
+msgstr "Circ in out"
+
+msgid "圆形缓出"
+msgstr "Circ out"
+
+msgid "圆角"
+msgstr "Rounded corners"
+
+msgid "圆角矩形"
+msgstr "Rounded rectangle"
+
+msgid "在对话框的左下角显示一个小头像"
+msgstr "Display a small avatar in the lower left corner of the dialog box"
+
+msgid "在文件管理器中打开"
+msgstr "Open in File Explorer"
+
+msgid "在新标签页中预览"
+msgstr "Preview in new tab"
+
+msgid "在这里放置编辑组件"
+msgstr "Place editing components here"
+
+msgid "场景"
+msgstr "Scene"
+
+msgid "场景与分支"
+msgstr "Scenes and branches"
+
+msgid "场景文件"
+msgstr "Scene file"
+
+msgid "填写参数值"
+msgstr "Fill in parameter value"
+
+msgid "外层文本"
+msgstr "Outer Text"
+
+msgid "外边距"
+msgstr "Margin"
+
+msgid "大"
+msgstr "Large"
+
+msgid "大雪"
+msgstr "Heavy snow"
+
+msgid "如果使用了自定义模板导致预览效果异常，请关闭此选项。"
+msgstr "If the use of a custom template causes abnormal display issues, please disable this option."
+
+msgid "字体"
+msgstr "Font"
+
+msgid "字体优化"
+msgstr "Font optimization"
+
+msgid "字体优化将在游戏预览窗口低于特定尺寸时，关闭对话文本字体描边，以提升可读性。"
+msgstr "Font optimization will disable the outline of dialogue text when the game preview window is below a certain size to enhance readability."
+
+msgid "字体大小"
+msgstr "Font size"
+
+msgid "字体文件 URL"
+msgstr "Font file URL"
+
+msgid "字体文件上传失败，请重试"
+msgstr "Font file upload failed, please retry"
+
+msgid "字体类型"
+msgstr "Font type"
+
+msgid "字体配置"
+msgstr "Font configuration"
+
+msgid "字母间距"
+msgstr "Letter spacing"
+
+msgid "字重"
+msgstr "Font Weight"
+
+msgid "定位方式"
+msgstr "Positioning"
+
+msgid "实时预览关闭"
+msgstr "Live preview off"
+
+msgid "实时预览将游戏快进至编辑语句，但有限制。先前场景的语句效果，如变量，不会反映在预览中。"
+msgstr "Live preview fast-forwards the game to the edited statement, but with limitations. The effects of statements from previous scenes, such as variables, won't be reflected in the preview."
+
+msgid "实时预览打开"
+msgstr "Live preview on"
+
+msgid "实验性快速预览"
+msgstr "Experimental fast preview"
+
+msgid "宽度"
+msgstr "Width"
+
+msgid "对比度"
+msgstr "Contrast"
+
+msgid "对话"
+msgstr "Dialogue"
+
+msgid "对话框文字"
+msgstr "Text in Textbox"
+
+msgid "对话框标题"
+msgstr "Dialog title"
+
+msgid "导出"
+msgstr "Export"
+
+msgid "导出中..."
+msgstr "Exporting..."
+
+msgid "导出为可执行文件"
+msgstr "Export as executable file"
+
+msgid "导出为安卓项目文件"
+msgstr "Export as Android project file"
+
+msgid "导出为网页"
+msgstr "Export as webpage"
+
+msgid "导出失败！"
+msgstr "Export Failed!"
+
+msgid "导出成功！"
+msgstr "Export Success!"
+
+msgid "将当前模板应用到选定的游戏"
+msgstr "Apply the current template to selected games"
+
+msgid "小"
+msgstr "Small"
+
+msgid "小头像图像"
+msgstr "Mini avatar image"
+
+msgid "小头像容器"
+msgstr "Mini avatar container"
+
+msgid "小头像文件"
+msgstr "Avatar file"
+
+msgid "尚未添加任何字体"
+msgstr "No fonts added yet"
+
+msgid "尚未配置任何字体"
+msgstr "No fonts configured yet"
+
+msgid "层级顺序"
+msgstr "Z Index"
+
+msgid "居中"
+msgstr "Center"
+
+msgid "居中对齐"
+msgstr "Center Align"
+
+msgid "展示小头像"
+msgstr "Show avatar"
+
+msgid "属性"
+msgstr "Property"
+
+msgid "左侧"
+msgstr "Left"
+
+msgid "左侧立绘"
+msgstr "Left side figure"
+
+msgid "左对齐"
+msgstr "Left align"
+
+msgid "已创建"
+msgstr "Created"
+
+msgid "已存在文件或文件夹 {0}，请输入其他名称"
+msgstr "File or folder already exists {0}, please enter another name"
+
+msgid "帮助"
+msgstr "Help"
+
+msgid "帮助文档"
+msgstr "Documents"
+
+msgid "常规演出"
+msgstr "Regular performance"
+
+msgid "平铺"
+msgstr "Tiling"
+
+msgid "应用"
+msgstr "Apply"
+
+msgid "应用的模板"
+msgstr "Applied template"
+
+msgid "应用颜色变化"
+msgstr "Apply color changes"
+
+msgid "延迟时间（秒）"
+msgstr "Delay time (seconds)"
+
+msgid "开启"
+msgstr "On"
+
+msgid "张开嘴"
+msgstr "Open mouth"
+
+msgid "强度"
+msgstr "Intensity"
+
+msgid "当前版本"
+msgstr "Current version"
+
+msgid "德语"
+msgstr "German"
+
+msgid "快速预览效果"
+msgstr "Fast preview effects"
+
+msgid "快速预览语句"
+msgstr "Fast preview sentences"
+
+msgid "忽略此版本"
+msgstr "Ignore this version"
+
+msgid "我确定要删除游戏"
+msgstr "I'm sure to delete the game"
+
+msgid "手动触发下一句"
+msgstr "Manually trigger next intro sentence"
+
+msgid "手动输入 ID"
+msgstr "Manually enter ID"
+
+msgid "打开效果编辑器"
+msgstr "Open effect editor"
+
+msgid "执行到此句"
+msgstr "Execute to this sentence"
+
+msgid "扩展名"
+msgstr "Extension name"
+
+msgid "拼接先前文本框内的语句"
+msgstr "Concat the sentences with previous text"
+
+msgid "拼接模式"
+msgstr "Concat mode"
+
+msgid "指针"
+msgstr "Pointer"
+
+msgid "排序方式"
+msgstr "Sort by"
+
+msgid "控制是否要显示文本框"
+msgstr "Control whether to display the text box"
+
+msgid "提交"
+msgstr "Submit"
+
+msgid "提交修改"
+msgstr "Submit changes"
+
+msgid "提示"
+msgstr "Tip"
+
+msgid "提示：先设置立绘/背景，再应用动画，否则找不到目标。"
+msgstr "Tip: Set the figure/background first, then apply the animation, otherwise the target cannot be found."
+
+msgid "提示：在编辑结束后，如果发现有失效的鉴赏 CG/BGM ，在 WebGAL 游戏界面的选项中选择清除全部数据以清空。"
+msgstr "Tip: After editing, if you find any invalid CG/BGM in the appreciation gallery, select Clear All Data in the options of the WebGAL game interface to clear them."
+
+msgid "提示：换行符最多可达三行"
+msgstr "Tip: Line breaks can be up to three lines"
+
+msgid "提示：效果只有在切换到不同立绘或关闭之前的立绘再重新添加时生效。如果你要为现有的立绘设置效果，请使用单独的设置效果命令"
+msgstr "Tip: The effect will only take place when switching to a different character sprite or closing the current sprite and adding it again. If you want to set an effect for an existing sprite, please use a separate command for setting effects."
+
+msgid "提示：效果只有在切换到不同背景或关闭之前的背景再重新添加时生效。如果你要为现有的背景设置效果，请使用单独的设置效果命令"
+msgstr "Tip: The effect will only take place when switching to a different background or removing the current background and adding it again. If you want to set an effect for an existing background, please use a separate command for setting effects."
+
+msgid "提示：样式中用到的资源放在 assets 目录下"
+msgstr "Tips: Resources used in styles are placed in the assets directory"
+
+msgid "搜索选项"
+msgstr "Search options"
+
+msgid "播放一小段视频"
+msgstr "Play a short video"
+
+msgid "播放一段效果音"
+msgstr "Play a sound effect"
+
+msgid "播放效果音"
+msgstr "Play sound effect"
+
+msgid "播放视频"
+msgstr "Play video"
+
+msgid "故障电影滤镜"
+msgstr "Glitch film filter"
+
+msgid "效果"
+msgstr "Effect"
+
+msgid "效果与变换"
+msgstr "Effects and Transformations"
+
+msgid "效果声音"
+msgstr "Sound effect"
+
+msgid "效果编辑"
+msgstr "Effect editing"
+
+msgid "效果编辑器"
+msgstr "Effect editor"
+
+msgid "效果选项"
+msgstr "Effect options"
+
+msgid "效果音 ID"
+msgstr "Sound effect ID"
+
+msgid "效果音 ID（输入以使效果音循环，后面再用这个 id 来关闭）"
+msgstr "Sound effect ID (Input ID makes this effect loop, you can't stop it by this ID after)"
+
+msgid "效果音 音量"
+msgstr "Sound effect volume"
+
+msgid "效果音文件"
+msgstr "Sound effect file"
+
+msgid "文件名"
+msgstr "File name"
+
+msgid "文件名不可包含特殊符号: '/\\\\:*?\"<>|'"
+msgstr "File name cannot contain special characters: '/\\\\:*?\"<>|'"
+
+msgid "文件大小"
+msgstr "File size"
+
+msgid "文字大小"
+msgstr "Font size"
+
+msgid "文字展示完执行下一句"
+msgstr "Text display complete, execute next sentence"
+
+msgid "文字展示完等待"
+msgstr "Text display complete, wait"
+
+msgid "文字颜色"
+msgstr "Font color"
+
+msgid "文本对齐"
+msgstr "Text alignment"
+
+msgid "文本展示后连续执行"
+msgstr "Text display and continuous execution"
+
+msgid "文本显示"
+msgstr "Text display"
+
+msgid "文本框"
+msgstr "Text Box"
+
+msgid "文本框（小头像关闭时）"
+msgstr "Textbox (when avatar is closed)"
+
+msgid "文本框文本"
+msgstr "Text Box Text"
+
+msgid "文本框背景"
+msgstr "Text Box Background"
+
+msgid "文本长度 (em)"
+msgstr "Text length (em)"
+
+msgid "文本阴影"
+msgstr "Text Shadow"
+
+msgid "文档"
+msgstr "Document"
+
+msgid "新增字体"
+msgstr "Add font"
+
+msgid "新建文件"
+msgstr "Create new file"
+
+msgid "新建文件夹"
+msgstr "Create new folder"
+
+msgid "新建模板"
+msgstr "Create new template"
+
+msgid "新建游戏"
+msgstr "Create new game"
+
+msgid "新文件名"
+msgstr "New file name"
+
+msgid "新文件夹名"
+msgstr "New folder name"
+
+msgid "新标签页预览"
+msgstr "Preview in new tab"
+
+msgid "新的模板"
+msgstr "New template"
+
+msgid "新的游戏"
+msgstr "New game"
+
+msgid "方形"
+msgstr "Square"
+
+msgid "旁白模式"
+msgstr "Voiceover mode"
+
+msgid "旁白模式，无角色名"
+msgstr "Voiceover mode, no role name"
+
+msgid "旋转（弧度）"
+msgstr "Rotation(radian)"
+
+msgid "旋转（角度）"
+msgstr "Rotation(angle)"
+
+msgid "无"
+msgstr "None"
+
+msgid "无匹配选项"
+msgstr "No matching options"
+
+msgid "日语"
+msgstr "Japanese"
+
+msgid "是否固定弹窗"
+msgstr "Pin popup"
+
+msgid "是否自定义分隔符"
+msgstr "Use custom separator"
+
+msgid "是否要删除 \"{0}\" ？"
+msgstr "Are you sure you want to delete \"{0}\"?"
+
+msgid "是否要删除 \"{gameName}\" ？"
+msgstr "Are you sure you want to delete \"{gameName}\"?"
+
+msgid "显示侧边栏"
+msgstr "Show sidebar"
+
+msgid "显示效果"
+msgstr "Display effect"
+
+msgid "显示文本框"
+msgstr "Show text box"
+
+msgid "显示立绘"
+msgstr "Show figure"
+
+msgid "显示背景"
+msgstr "Show background"
+
+msgid "显示角色名"
+msgstr "Show role name"
+
+msgid "显示预览窗口"
+msgstr "Show preview window"
+
+msgid "普通对话"
+msgstr "General dialogue"
+
+msgid "未指定"
+msgstr "Unspecified"
+
+msgid "未识别"
+msgstr "Unrecognized"
+
+msgid "未识别的指令"
+msgstr "Unrecognized command"
+
+msgid "本句前插入句子"
+msgstr "Insert sentence before this"
+
+msgid "本句执行后执行下一句"
+msgstr "Execute next sentence after this"
+
+msgid "本句执行后等待"
+msgstr "Wait after this sentence"
+
+msgid "查看展示到 WebGAL 主页的指引"
+msgstr "See how to feature your game on the WebGAL homepage"
+
+msgid "标题"
+msgstr "Title"
+
+msgid "标题备用背景"
+msgstr "Title Alternate Background"
+
+msgid "标题按钮"
+msgstr "Title Button"
+
+msgid "标题按钮列表"
+msgstr "Title Button List"
+
+msgid "标题按钮文字"
+msgstr "Title Button Text"
+
+msgid "标题背景图片"
+msgstr "Title background image"
+
+msgid "标题背景音乐"
+msgstr "Title background music"
+
+msgid "根文本长度 (rem)"
+msgstr "Root Font Size (rem)"
+
+msgid "模板"
+msgstr "Template"
+
+msgid "模板列表"
+msgstr "Template list"
+
+msgid "模板名称"
+msgstr "Template name"
+
+msgid "模板名称不能为空"
+msgstr "Template name cannot be empty"
+
+msgid "模板目录"
+msgstr "Template directory"
+
+msgid "模糊"
+msgstr "Blur"
+
+msgid "櫻花"
+msgstr "Cherry blossoms"
+
+msgid "正在上传"
+msgstr "Uploading"
+
+msgid "正在加载模板配置"
+msgstr "Loading template configuration"
+
+msgid "正常"
+msgstr "Normal"
+
+msgid "正常播放 BGM"
+msgstr "Play BGM normally"
+
+msgid "正片叠底"
+msgstr "Multiply"
+
+msgid "此指令将结束游戏"
+msgstr "This command will end the game"
+
+msgid "永不换行"
+msgstr "Never wrap"
+
+msgid "法语"
+msgstr "French"
+
+msgid "泛光"
+msgstr "Bloom"
+
+msgid "注视点X(-1~1)"
+msgstr "Focus X (-1~1)"
+
+msgid "注视点Y(-1~1)"
+msgstr "Focus Y (-1~1)"
+
+msgid "注释"
+msgstr "Comment"
+
+msgid "注释仅在编辑时可见，游戏中不会执行"
+msgstr "Comments are only visible when editing and will not be executed in the game"
+
+msgid "浅色"
+msgstr "Light"
+
+msgid "淡入淡出"
+msgstr "Fade in and out"
+
+msgid "深色"
+msgstr "Dark"
+
+msgid "混合模式"
+msgstr "Blend mode"
+
+msgid "添加"
+msgstr "Add"
+
+msgid "添加一句对话，可以附带语音"
+msgstr "Add a dialogue, can be accompanied by voice"
+
+msgid "添加一张图片到 CG 鉴赏界面"
+msgstr "Add a picture to CG appreciation gallery"
+
+msgid "添加一行注释"
+msgstr "Add a line comment"
+
+msgid "添加一首音乐到音乐鉴赏界面"
+msgstr "Add a music to music appreciation gallery"
+
+msgid "添加属性"
+msgstr "Add Property"
+
+msgid "添加或切换指定位置的立绘"
+msgstr "Add or switch the figure at the specified position"
+
+msgid "添加新行"
+msgstr "Add new line"
+
+msgid "添加自定义属性"
+msgstr "Add Custom Property"
+
+msgid "添加语句"
+msgstr "Add statement"
+
+msgid "清除当前舞台的特殊效果"
+msgstr "Clear special effects of current stage"
+
+msgid "清除特效"
+msgstr "Clear effects"
+
+msgid "游戏"
+msgstr "Games"
+
+msgid "游戏列表"
+msgstr "Game list"
+
+msgid "游戏包名"
+msgstr "Game package name"
+
+msgid "游戏名称"
+msgstr "Game name"
+
+msgid "游戏图标"
+msgstr "Game icon"
+
+msgid "游戏控制"
+msgstr "Game control"
+
+msgid "游戏目录"
+msgstr "Game directory"
+
+msgid "游戏简介"
+msgstr "Game description"
+
+msgid "游戏识别码"
+msgstr "Game ID"
+
+msgid "游戏配置"
+msgstr "Game configuration"
+
+msgid "源代码"
+msgstr "Source code"
+
+msgid "滤色"
+msgstr "Screen"
+
+msgid "滤镜"
+msgstr "Filter"
+
+msgid "点击或拖拽文件至此上传"
+msgstr "Click or drag file to this area to upload"
+
+msgid "点击或按退格键以删除旧的分隔符，输入新的分隔符后请按回车键确认。"
+msgstr "Click or press Backspace to delete the old separator. Enter a new separator and press Enter to confirm."
+
+msgid "点状电影滤镜"
+msgstr "Dot film filter"
+
+msgid "特殊演出"
+msgstr "Special performance"
+
+msgid "百分比。 0-100 有效"
+msgstr "Percentage. 0-100 valid"
+
+msgid "目前没有打开任何文件"
+msgstr "No file currently open"
+
+msgid "相对"
+msgstr "Relative"
+
+msgid "眨眼间隔(毫秒)"
+msgstr "Blink interval (ms)"
+
+msgid "眨眼间隔随机变化(毫秒)"
+msgstr "Blink interval random variation (ms)"
+
+msgid "睁开眼睛"
+msgstr "Open eyes"
+
+msgid "睁眼(毫秒)"
+msgstr "Opening duration (ms)"
+
+msgid "确定"
+msgstr "OK"
+
+msgid "确定要删除 \"{templateName}\" 模板吗？"
+msgstr "Are you sure you want to delete the \"{templateName}\" template?"
+
+msgid "确认按钮文本"
+msgstr "Confirm button text"
+
+msgid "视图"
+msgstr "View"
+
+msgid "视觉小说编辑，再进化"
+msgstr "Visual novel editing, evolved"
+
+msgid "视频"
+msgstr "Video"
+
+msgid "视频文件"
+msgstr "Video file"
+
+msgid "视频选项"
+msgstr "Video options"
+
+msgid "禁止跳过视频"
+msgstr "Disable skipping video"
+
+msgid "禁用"
+msgstr "Disabled"
+
+msgid "立即注视"
+msgstr "Focus instantly"
+
+msgid "立绘"
+msgstr "Figure"
+
+msgid "立绘 ID"
+msgstr "Figure ID"
+
+msgid "立绘ID（可选）"
+msgstr "Figure ID (optional)"
+
+msgid "立绘位置"
+msgstr "Figure position"
+
+msgid "立绘插图的ID"
+msgstr "ID of figure illustration"
+
+msgid "立绘文件"
+msgstr "Figure file"
+
+msgid "简体中文"
+msgstr "Simplified Chinese"
+
+msgid "红色通道"
+msgstr "Red channel"
+
+msgid "紧急回避"
+msgstr "Emergency Evasion"
+
+msgid "纹理"
+msgstr "Texture"
+
+msgid "线性"
+msgstr "Linear"
+
+msgid "线性减淡"
+msgstr "Add"
+
+msgid "线性渐变"
+msgstr "Linear gradient"
+
+msgid "终点回弹"
+msgstr "Back out"
+
+msgid "终点弹跳"
+msgstr "Bounce out"
+
+msgid "结束后保持"
+msgstr "Hold after end"
+
+msgid "结束当前 BGM 的播放"
+msgstr "Stop playing current BGM"
+
+msgid "结束当前游戏并回到标题画面"
+msgstr "End current game and return to title screen"
+
+msgid "结束游戏"
+msgstr "End game"
+
+msgid "绝对"
+msgstr "Absolutely"
+
+msgid "继承现有效果"
+msgstr "Inherit current effect"
+
+msgid "继承默认效果"
+msgstr "Inherit default effect"
+
+msgid "绿色通道"
+msgstr "Green channel"
+
+msgid "缓入"
+msgstr "Ease in"
+
+msgid "缓入缓出"
+msgstr "Ease in out"
+
+msgid "缓出"
+msgstr "Ease out"
+
+msgid "缓动类型"
+msgstr "Ease type"
+
+msgid "编辑图标"
+msgstr "Edit icon"
+
+msgid "编辑模板"
+msgstr "Edit template"
+
+msgid "编辑游戏"
+msgstr "Edit game"
+
+msgid "编辑组件"
+msgstr "Edit component"
+
+msgid "繁体中文"
+msgstr "Traditional Chinese"
+
+msgid "缩放"
+msgstr "Scale"
+
+msgid "网格视图"
+msgstr "Grid view"
+
+msgid "老电影滤镜"
+msgstr "Old film filter"
+
+msgid "耗时"
+msgstr "Time taken"
+
+msgid "背景"
+msgstr "Background"
+
+msgid "背景图像位置"
+msgstr "Background Image Position"
+
+msgid "背景图像大小"
+msgstr "Background image size"
+
+msgid "背景图片"
+msgstr "Background image"
+
+msgid "背景文件"
+msgstr "Background file"
+
+msgid "背景音乐"
+msgstr "Background music"
+
+msgid "背景音乐文件"
+msgstr "Background music file"
+
+msgid "背景颜色"
+msgstr "Background color"
+
+msgid "脚本编辑器"
+msgstr "Script editor"
+
+msgid "自动"
+msgstr "Auto"
+
+msgid "自动换行"
+msgstr "Auto wrap"
+
+msgid "自动隐藏功能区"
+msgstr "Auto-hide toolbar"
+
+msgid "自定义"
+msgstr "Customization"
+
+msgid "自定义 Live2D 绘制范围"
+msgstr "Custom Live2D drawing area"
+
+msgid "自定义值"
+msgstr "Custom Value "
+
+msgid "自定义分隔符"
+msgstr "Custom separator"
+
+msgid "自定义特效名称"
+msgstr "Custom effect name"
+
+msgid "自定义级联选择器分隔符"
+msgstr "Custom cascade selector separator"
+
+msgid "舞台对象控制"
+msgstr "Stage object control"
+
+msgid "舞台画面"
+msgstr "Stage"
+
+msgid "英语"
+msgstr "English"
+
+msgid "获取最新版本"
+msgstr "Download Latest Version"
+
+msgid "获取来自用户的字符输入"
+msgstr "Get character input from user"
+
+msgid "获取输入"
+msgstr "Get input"
+
+msgid "蓝色通道"
+msgstr "Blue channel"
+
+msgid "行脚本"
+msgstr "Line of script"
+
+msgid "补充默认值"
+msgstr "Write default"
+
+msgid "裁剪形状"
+msgstr "Clip Shape"
+
+msgid "要删除属性{0}吗？"
+msgstr "Delete the property {0}?"
+
+msgid "覆盖"
+msgstr "Coverage"
+
+msgid "角色名，留空以继承上句"
+msgstr "Role name, leave blank to inherit from previous sentence"
+
+msgid "角色名，留空以继承上句:对话;"
+msgstr "Role name, leave blank to inherit from previous sentence: Dialogue;"
+
+msgid "角色名内层文本"
+msgstr "Role Name Inner Text"
+
+msgid "角色名外层文本"
+msgstr "Role Name Outer Text"
+
+msgid "角色名容器"
+msgstr "Role Name Container"
+
+msgid "角色名文本框"
+msgstr "Role Name Text Box"
+
+msgid "角色名文本框背景"
+msgstr "Role Name Text Box Background"
+
+msgid "角落头像"
+msgstr "Corner avatar"
+
+msgid "解锁名称"
+msgstr "Unlock name"
+
+msgid "解锁成就"
+msgstr "Unlock Achievement"
+
+msgid "解锁的 BGM 名称"
+msgstr "Name of unlocked BGM"
+
+msgid "解锁的 CG 名称"
+msgstr "Name of unlocked CG"
+
+msgid "解锁的 CG 或 BGM 名称"
+msgstr "Name of unlocked CG or BGM"
+
+msgid "解锁鉴赏类型"
+msgstr "Unlock appreciation type"
+
+msgid "设置"
+msgstr "Settings"
+
+msgid "设置动画"
+msgstr "Set animation"
+
+msgid "设置立绘或背景的进出场动画"
+msgstr "Setting the animation of the figure or background."
+
+msgid "设置自定义级联选择器分隔符（输入后按回车键确认）"
+msgstr "Set custom cascade selector separator (press Enter to confirm after input)"
+
+msgid "该功能将大幅提升实时预览效率，但可能出现异常。"
+msgstr "This feature will greatly improve real-time preview efficiency, but may cause exceptions."
+
+msgid "该指令没有被识别，请打开脚本编辑模式以手动编辑"
+msgstr "This command is not recognized, please open script editing mode to edit manually"
+
+msgid "该文件类型不支持预览"
+msgstr "This file type does not support preview"
+
+msgid "语言"
+msgstr "Language"
+
+msgid "语音"
+msgstr "Voice"
+
+msgid "请完整填写每个字体的信息"
+msgstr "Please complete all font information"
+
+msgid "请输入或选择字体名称"
+msgstr "Please enter or select a font name"
+
+msgid "请输入搜索提示词..."
+msgstr "Please enter a search hint..."
+
+msgid "调整前景图片"
+msgstr "Resize foreground image"
+
+msgid "调整背景图片"
+msgstr "Resize background image"
+
+msgid "调用 Steam"
+msgstr "Call Steam"
+
+msgid "调用 Steam 接口，支持多参数"
+msgstr "Call Steam Interface, supports multiple parameters"
+
+msgid "调用/切换场景"
+msgstr "Call/Change Scene"
+
+msgid "调用一段场景文件，在结束后返回父场景"
+msgstr "Call a scene file, return to parent scene after it ends"
+
+msgid "调用场景"
+msgstr "Call Scene"
+
+msgid "调用场景，新场景结束后返回父场景"
+msgstr "Call scene, return to parent scene after new scene ends"
+
+msgid "资源"
+msgstr "Assets"
+
+msgid "起止回弹"
+msgstr "Back in out"
+
+msgid "起止弹跳"
+msgstr "Bounce in out"
+
+msgid "起点回弹"
+msgstr "Back in"
+
+msgid "起点弹跳"
+msgstr "Bounce in"
+
+msgid "跨语句动画"
+msgstr "Keep animation"
+
+msgid "软化（0-1）"
+msgstr "Softness (0-1)"
+
+msgid "输入目标 ID"
+msgstr "Enter Target ID"
+
+msgid "过渡时间（单位为毫秒）"
+msgstr "Transition duration (milliseconds)"
+
+msgid "过滤文件"
+msgstr "Filter files"
+
+msgid "运行平台"
+msgstr "Platform"
+
+msgid "返回"
+msgstr "Return"
+
+msgid "进出场动画"
+msgstr "Entry and exit animation"
+
+msgid "连续执行"
+msgstr "Execute Continuously"
+
+msgid "退场时长（单位为毫秒）"
+msgstr "Exit duration (milliseconds)"
+
+msgid "选择"
+msgstr "Choose"
+
+msgid "选择动画"
+msgstr "Choose animation"
+
+msgid "选择动画文件"
+msgstr "Choose animation file"
+
+msgid "选择图片"
+msgstr "Choose image"
+
+msgid "选择图片文件"
+msgstr "Choose image file"
+
+msgid "选择场景文件"
+msgstr "Choose scene file"
+
+msgid "选择小头像"
+msgstr "Choose avatar"
+
+msgid "选择小头像文件"
+msgstr "Choose avatar file"
+
+msgid "选择应用的模板"
+msgstr "Select apply template"
+
+msgid "选择效果音文件"
+msgstr "Choose sound effect file"
+
+msgid "选择文件"
+msgstr "Choose file"
+
+msgid "选择游戏引擎版本"
+msgstr "Select game engine version"
+
+msgid "选择视频文件"
+msgstr "Choose video file"
+
+msgid "选择立绘文件"
+msgstr "Choose Figure File"
+
+msgid "选择背景文件"
+msgstr "Choose background file"
+
+msgid "选择背景音乐"
+msgstr "Choose Background Music"
+
+msgid "选择语音文件"
+msgstr "Choose voice file"
+
+msgid "选择调用参数"
+msgstr "Select call parameter"
+
+msgid "选择进入动画"
+msgstr "Choose enter animation"
+
+msgid "选择进入动画文件"
+msgstr "Choose enter animation file"
+
+msgid "选择退出动画"
+msgstr "Choose exit animation"
+
+msgid "选择退出动画文件"
+msgstr "Choose exit animation file"
+
+msgid "选择鉴赏资源文件"
+msgstr "Choose appreciation asset file"
+
+msgid "选择预设目标"
+msgstr "Choose Preset Target"
+
+msgid "选择颜色"
+msgstr "Select Color"
+
+msgid "选项"
+msgstr "Option"
+
+msgid "选项列表"
+msgstr "Selection List"
+
+msgid "选项名称"
+msgstr "Option Name"
+
+msgid "选项按钮"
+msgstr "Selection Button"
+
+msgid "选项按钮（禁用）"
+msgstr "Selection Button (disabled)"
+
+msgid "选项按钮外层"
+msgstr "Selection Button Wrapper"
+
+msgid "透明度（0-1）"
+msgstr "Opacity (0-1)"
+
+msgid "通过选项进入不同的场景"
+msgstr "Enter different scenes through options"
+
+msgid "配置"
+msgstr "Configuration"
+
+msgid "配置模板"
+msgstr "Configure template"
+
+msgid "重命名"
+msgstr "Rename"
+
+msgid "重命名模板目录"
+msgstr "Rename template directory"
+
+msgid "重命名游戏目录"
+msgstr "Rename game directory"
+
+msgid "鉴赏"
+msgstr "Appreciation"
+
+msgid "鉴赏功能"
+msgstr "Gallery Feature"
+
+msgid "鉴赏图片"
+msgstr "Appreciation Image"
+
+msgid "鉴赏资源文件"
+msgstr "Appreciation Asset File"
+
+msgid "鉴赏音乐"
+msgstr "Appreciation Music"
+
+msgid "闭上嘴"
+msgstr "Close Mouth"
+
+msgid "闭上眼睛"
+msgstr "Close Eyes"
+
+msgid "闭眼(毫秒)"
+msgstr "Closing duration (ms)"
+
+msgid "阈值"
+msgstr "Threshold"
+
+msgid "隐藏侧边栏"
+msgstr "Hide Sidebar"
+
+msgid "隐藏文本框"
+msgstr "Hide Text Box"
+
+msgid "雨"
+msgstr "Rain"
+
+msgid "雪"
+msgstr "Snow"
+
+msgid "静态"
+msgstr "Static"
+
+msgid "靠上"
+msgstr "Top"
+
+msgid "靠下"
+msgstr "Bottom"
+
+msgid "靠右"
+msgstr "Right"
+
+msgid "靠左"
+msgstr "Left"
+
+msgid "音乐"
+msgstr "Music"
+
+msgid "项目主页"
+msgstr "Project Homepage"
+
+msgid "预先反向"
+msgstr "Anticipate"
+
+msgid "预览"
+msgstr "Preview"
+
+msgid "预览图标"
+msgstr "Preview icon"
+
+msgid "预览窗口"
+msgstr "Preview window"
+
+msgid "颜色"
+msgstr "Color"
+
+msgid "颜色调整"
+msgstr "Color adjustment"
+
+msgid "饱和度"
+msgstr "Saturation"
+
+msgid "高度"
+msgstr "Height"
+
+msgid "高斯模糊"
+msgstr "Gaussian Blur"
+
+msgid "默认"
+msgstr "Default"
+
+msgid "默认值0"
+msgstr "Default 0"
+
+msgid "默认值1"
+msgstr "Default 1"
+
+msgid "默认值100"
+msgstr "Default 100"
+
+msgid "默认值1000"
+msgstr "Default 1000"
+
+msgid "默认值150"
+msgstr "Default 150"
+
+msgid "默认值24小时"
+msgstr "Default 24 hours"
+
+msgid "默认值50"
+msgstr "Default 50"
+
+msgid "默认语言"
+msgstr "Default Language"
+
+msgid "鼠标悬浮样式"
+msgstr "Mouse hover style"
+
+msgid "鼠标指针"
+msgstr "Mouse cursor"
+
+msgid "鼠标按下样式"
+msgstr "Mouse down style"

@@ -1,0 +1,17 @@
+.chooseFileTitle{
+  font-weight: bold;
+  padding: 8px 0 0px 8px;
+}
+
+.chooseFileContentWarpper{
+  display: flex;
+  flex-flow: column;
+  height: 45vh;
+  width: 32rem;
+  gap: 4px;
+}
+
+.chooseFileFileListWarpper{
+  flex:1;
+  overflow: auto;
+}

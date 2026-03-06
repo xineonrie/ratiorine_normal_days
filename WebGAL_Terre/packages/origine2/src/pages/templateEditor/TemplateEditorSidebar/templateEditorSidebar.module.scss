@@ -1,0 +1,87 @@
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding: 4px 0 4px 4px;
+}
+
+.toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 4px;
+  gap: 8px;
+  //margin-left: 4px;
+}
+
+.actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 0 0 8px;
+  flex-wrap: wrap;
+}
+
+.title {
+  //flex: 1;
+  flex-grow: 1;
+  //text-align: right;
+  padding-right: 12px;
+  overflow: hidden;
+  text-wrap: nowrap;
+  text-overflow: ellipsis;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.componentTree {
+  width: 100%;
+  background: var(--bg-card);
+  border: var(--border-md);
+  border-radius: var(--radius-md);
+}
+
+.divider {
+  width: 100%;
+  height: 4px;
+  overflow: hidden;
+  -webkit-user-select: none;
+  user-select: none;
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  padding: 0.75px 4px;
+
+  & .dividerLine {
+    visibility: hidden;
+  }
+}
+
+.divider:hover {
+  cursor: ns-resize;
+
+  & .dividerLine {
+    visibility: visible;
+    height: 100%;
+    width: 100%;
+    background: var(--primary);
+    border-radius: var(--radius-md);
+  }
+}
+
+.dividerActive {
+  cursor: ns-resize;
+
+  & .dividerLine {
+    visibility: visible;
+  }
+}
+
+.assets {
+  flex: 1;
+  background: var(--bg-card);
+  border: var(--border-md);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  // min-height: 120px;
+}
