@@ -1,0 +1,22 @@
+bgm:playing_around(loop).mp3 -unlockname=优哉游哉;
+changeBg:campus_classroom_morning.jpg -transform={"bloom":0.139,"bloomBrightness":1.206,"bloomBlur":37} -next;
+changeFigure:jade-01.png -id=jade -transform={"position":{"x":-17,"y":258},"scale":{"x":1.27,"y":1.27}} -zIndex=3 -next;
+翡翠:一大早上就这么热闹啊。;
+翡翠:又在折腾什么呢，砂金。|就这么想给大家看看你的新装扮？;
+changeFigure:aventurine-02.png -id=aventurine -transform={"position":{"x":-603,"y":352},"scale":{"x":1.4,"y":1.4}} -zIndex=2 -next;
+setAnimation:aventurine-enter-from-left -target=aventurine -writeDefault -next;
+砂金:………………唉……啊哈。;
+:教室内传来一阵哄笑。;
+翡翠:笑什么，这是砂金同学关心集体，自告奋勇加入拉拉队给咱们班篮球队加油鼓劲呢。|大家给点掌声。;
+:哄笑声中掌声如潮水向砂金涌来。;
+changeFigure:aventurine-05.png -id=aventurine -transform={"position":{"x":-603,"y":352},"scale":{"x":1.4,"y":1.4}} -zIndex=2 -next;
+砂金:………………我才没自告奋勇。;
+changeFigure:aventurine-06.png -id=aventurine -transform={"position":{"x":-603,"y":352},"scale":{"x":1.4,"y":1.4}} -zIndex=2 -next;
+翡翠:哦？那你就现在做个表率，带头交一下昨天的数学作业？;
+砂金:饶，饶了我吧！;
+setAnimation:aventurine-exit-from-left -target=aventurine -next;
+:砂金赶忙躲回了自己的座位上，埋头补起了作业。
+翡翠:咱们班篮球队好不容易进了四分之一决赛，大家到时候记得都来给咱们班加油哦。
+好了，大家都快点准备上课吧。;
+changeFigure:none -id=jade -next;
+changeScene:chapter2_start.txt;

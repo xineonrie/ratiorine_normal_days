@@ -1,0 +1,22 @@
+bgm:summer_pudding.mp3 -volume=70 -unlockname=夏日布丁;
+changeBg:campus_desks_morning.jpg -transform={"blur":0,"colorRed":224,"colorGreen":242,"colorBlue":206,"bloom":0.297,"bloomBrightness":1.206,"bloomBlur":37,"godrayFilm":0} -next;
+:初春的风吹进教室，温暖到让人不愿睁开眼睛，再配上讲台上物理老师没有感情的低语，教室里一片死气沉沉。;
+:拉帝奥托着下巴假装自己在听课，他上周刚拿到了全球物理奥林匹克大赛的金奖，这点知识对他来说早已是熟捻于心。
+changeBg:cg_01.jpg -unlockname=课堂时光 -next;
+unlockCg:cg_01.jpg;
+:身旁传来一阵沙沙的声音，毫无疑问，是砂金在补他昨天没写的数学作业。
+:就作业上工整的字迹来看，他正在拿来参考的，大概是托帕的作业。;
+:似乎是注意到了拉帝奥的目光，砂金翻书的声音变得有些刻意。
+miniAvatar:ratio-05.png;
+拉帝奥:（这家伙，居然因为早上没借他作业抄这种小事，到现在还在赌气。）;
+（抄我的作业不是一眼就被老师看出来了……这个笨蛋。）;
+miniAvatar:none;
+:但砂金很明显并不这么想，他又试探性地翻了几页书，试图唤起拉帝奥的注意力。;
+miniAvatar:ratio-01.png;
+拉帝奥:（……这家伙又想搞什么鬼。）;
+miniAvatar:none;
+:见拉帝奥并没有什么反应，他似乎有点着急，本就潇洒的字迹此时更是飞舞得有点潦草。;
+一通糊弄过后，砂金终于合上了作业本，随即又靠了过来，戳了戳拉帝奥。;
+miniAvatar:ratio-01.png;
+拉帝奥:…………？;
+choose:理他一下:chapter2_invitation.txt|好好听课:chapter2_no_answer_first.txt;

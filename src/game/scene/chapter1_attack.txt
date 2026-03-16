@@ -1,0 +1,27 @@
+;真珠打断对话
+bgm:playing_around(loop).mp3;
+changeBg:campus_classroom_morning.jpg -transform={"bloom":0.139,"bloomBrightness":1.206,"bloomBlur":37} -next;
+changeFigure:aventurine-04.png -id=aventurine -transform={"position":{"x":-641,"y":352},"scale":{"x":1.4,"y":1.4}} -next;
+changeFigure:topaz-01.png -right -id=topaz -transform={"position":{"x":-401,"y":394},"scale":{"x":1.3,"y":1.3}} -next;
+changeFigure:pearl-02.png -id=pearl -transform={"position":{"x":-17,"y":436},"scale":{"x":1.25,"y":1.25}} -next;
+setTransform:{"position":{"x":-812}} -target=aventurine -duration=1000 -next;
+setTransform:{"position":{"x":-157}} -target=topaz -duration=1000 -next;
+真珠:日安，各位。;
+changeFigure:pearl-01.png -id=pearl -transform={"position":{"x":-17,"y":436},"scale":{"x":1.25,"y":1.25}} -next;
+changeFigure:aventurine-05.png -id=aventurine -transform={"position":{"x":-812,"y":352},"scale":{"x":1.4,"y":1.4}} -next;
+虽然很不想各位的打断晨间交谈环节，但可以请大家先把数学作业交给我吗？;
+changeFigure:topaz-02.png -right -id=topaz -transform={"position":{"x":-157,"y":394},"scale":{"x":1.3,"y":1.3}} -next;
+托帕:哎呀差点忘了！稍等一下，我去给你拿。;
+changeFigure: -id=topaz -next;
+changeFigure:aventurine-03.png -id=aventurine -transform={"position":{"x":-812,"y":352},"scale":{"x":1.4,"y":1.4}} -next;
+setTransform:{"position":{"x":-603}} -target=aventurine -duration=1000 -next;
+setTransform:{"position":{"x":394,"y":436}} -target=pearl -duration=1000 -next;
+砂金:哈哈，也稍等我一下……;
+真珠:站住，砂金。;
+根据我的推理，你的“稍等”意味着“没写”的概率高达95.6%;
+changeFigure:aventurine-02.png -id=aventurine -transform={"position":{"x":-603,"y":352},"scale":{"x":1.4,"y":1.4}} -next;
+砂金:哎，那不是还有4.4%吗……信我一次，马上马上！;
+changeFigure:pearl-03.png -id=pearl -transform={"position":{"x":394,"y":436},"scale":{"x":1.25,"y":1.25}} -next;
+真珠:快把作业给我。;
+砂金:喂……拉帝奥快救救我！;
+choose:借给他作业:chapter1_lend_notes.txt|置之不理:chapter1_ignore.txt;
