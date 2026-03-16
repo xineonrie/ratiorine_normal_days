@@ -7,6 +7,8 @@ miniAvatar:ratio-01.png;
 拉帝奥:稍等他一下吧真珠同学，我会监督他找作业的。等下我一起交过去。;
 miniAvatar:none;
 changeFigure:pearl-01.png -id=pearl -transform={"position":{"x":394,"y":436},"scale":{"x":1.25,"y":1.25}} -next;
+setTransform:{"brightness":1,"colorRed":255,"colorGreen":255,"colorBlue":255} -target=pearl -duration=300 -next;
+setTransform:{"brightness":0.3,"colorRed":255,"colorGreen":255,"colorBlue":255} -target=aventurine -duration=300 -next;
 真珠:但是……
 miniAvatar:ratio-04.png;
 拉帝奥:你总归是能相信我的，对吧。;
@@ -16,6 +18,7 @@ changeFigure:pearl-02.png -id=pearl -transform={"position":{"x":394,"y":436},"sc
 changeFigure: -id=pearl -next;
 changeFigure:aventurine-04.png -id=aventurine -transform={"position":{"x":-603,"y":352},"scale":{"x":1.4,"y":1.4}} -next;
 setTransform:{"position":{"x":0}} -target=aventurine -duration=1000 -next;
+setTransform:{"brightness":1,"colorRed":255,"colorGreen":255,"colorBlue":255} -target=aventurine -duration=300 -next;
 砂金:啊……得救了！;
 changeFigure:aventurine-03.png -id=aventurine -transform={"position":{"x":0,"y":352},"scale":{"x":1.4,"y":1.4}} -next;
 砂金:不愧是我，运气真好~⭐️！;
@@ -25,7 +28,7 @@ miniAvatar:none;
 changeFigure:aventurine-02.png -id=aventurine -transform={"position":{"x":0,"y":352},"scale":{"x":1.4,"y":1.4}} -next;
 砂金:哎嗨，有个好同桌也是好运气的一环嘛！;
 changeFigure:aventurine-01.png -id=aventurine -transform={"position":{"x":0,"y":352},"scale":{"x":1.4,"y":1.4}} -next;
-砂金:为了报答拉帝奥大人的救命之恩，这瓶早餐牛奶给你喝！;
+砂金:为了报答您的救命之恩，这瓶早餐牛奶给您喝！;
 miniAvatar:ratio-05.png;
 拉帝奥:哼，赶紧把作业补完然后交上。;
 miniAvatar:none;

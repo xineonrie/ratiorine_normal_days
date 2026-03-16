@@ -1,6 +1,6 @@
 bgm:playing_around(loop).mp3 -unlockname=优哉游哉;
 changeBg:campus_classroom_morning.jpg -transform={"bloom":0.139,"bloomBrightness":1.206,"bloomBlur":37} -next;
-changeFigure:jade-01.png -id=jade -transform={"position":{"x":-17,"y":258},"scale":{"x":1.27,"y":1.27}} -zIndex=3 -next;
+changeFigure:jade-01.png -id=jade -transform={"position":{"x":-17,"y":258},"scale":{"x":1.3,"y":1.3}} -zIndex=3 -next;
 翡翠:一大早上就这么热闹啊。;
 翡翠:又在折腾什么呢，砂金。|就这么想给大家看看你的新装扮？;
 changeFigure:aventurine-02.png -id=aventurine -transform={"position":{"x":-603,"y":352},"scale":{"x":1.4,"y":1.4}} -zIndex=2 -next;

@@ -7,5 +7,5 @@ pixiPerform:cherryBlossoms;
 :星际和平联合高中。|这是一座坐落于庇尔波因特的普通综合高中，也是是一所规模宏大，招生体系多元化的综合高中。;
 :这里有来自不同星域、不同阶层和背景的学生，他们中有精英、问题少年、艺术怪才、理科狂人……正是这些古灵精怪的少男少女们让这座校园始终生机勃勃。;
 :我们的故事就从这所高中难得的一个平静清晨开始。;
-setTextbox:hide -next;
-changeScene:chapter1_start.txt ;
+changeScene:chapter1_start.txt;
+
