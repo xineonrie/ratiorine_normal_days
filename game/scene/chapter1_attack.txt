@@ -1,4 +1,5 @@
 ;真珠打断对话
+: -next;
 bgm:playing_around(loop).mp3;
 changeBg:campus_classroom_morning.jpg -transform={"bloom":0.139,"bloomBrightness":1.206,"bloomBlur":37} -next;
 changeFigure:aventurine-04.png -id=aventurine -transform={"position":{"x":-641,"y":352},"scale":{"x":1.4,"y":1.4}} -next;

@@ -1,9 +1,27 @@
+: -next;
 changeBg:campus_desks_morning.jpg -transform={"blur":0,"colorRed":224,"colorGreen":242,"colorBlue":206,"bloom":0.297,"bloomBrightness":1.206,"bloomBlur":37,"godrayFilm":0} -next;
-changeFigure:aventurine-05.png -id=aventurine -transform={"position":{"x":-641,"y":352},"scale":{"x":1.4,"y":1.4}};
-砂金:喂，拉帝奥——;
-:见拉帝奥不理他，砂金挠了挠头，又凑近了一点戳了戳。;
-changeFigure:aventurine-05.png -id=aventurine -transform={"position":{"x":-641,"y":352},"scale":{"x":1.6,"y":1.6}};
-砂金:喂，拉帝奥——;
-砂金:我认真的！有事跟你说！
-choose:听听什么事:chapter1_lend_notes.txt|还是不理他:chapter1_ignore.txt -next;
-;
+miniAvatar:none -next;
+changeFigure:aventurine-05.png -id=aventurine -transform={"position":{"y":352},"scale":{"x":1.4,"y":1.4}} -next;
+砂金:喂，你这个家伙！;
+砂金:石膏脑袋！我知道你根本没在听课，你就是故意不理我！;
+miniAvatar:ratio-05.png;
+拉帝奥:到底有什么事？;
+miniAvatar:none;
+砂金:哦，现在想知道了？我还不乐意说了呢。;
+砂金:这么喜欢cos石膏头，干脆就去美术教室待着算了。;
+changeFigure:none -id=aventurine -next;
+miniAvatar:ratio-05.png;
+拉帝奥:…………幼稚。;
+miniAvatar:none;
+:砂金似乎是铁了心要跟他冷战，扭头又转回了自己桌子上。;
+:拉帝奥用余光瞥了他几眼，看着他先是无聊地摆弄了一下作业本，然后又掏出一个骰子挂件来回丢了几次。;
+:在连着丢出3个6之后，连砂金自己也感觉到了厌烦，随后干脆倒头就睡。;
+:或许是老师讲课的节奏过于催眠，又或许是他昨晚又打游戏打到太晚，此时的砂金睡得十分安详。;
+:阳光洒在他柔软的金发上，泛起一阵淡淡的微光。砂金微微皱眉，瑟缩了一下。;
+miniAvatar:ratio-01.png;
+拉帝奥:真拿这家伙没办法。;
+miniAvatar:none;
+:拉帝奥伸手拉上了旁边的窗帘。;
+changeScene:chapter2_temp_end.txt;
+
+

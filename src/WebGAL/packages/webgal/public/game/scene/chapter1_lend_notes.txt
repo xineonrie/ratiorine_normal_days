@@ -1,6 +1,7 @@
+: -next;
 setVar:lend_aventurine_note=true;
 bgm:playing_around(loop).mp3;
-changeBg:campus_classroom_morning.jpg -transform={"alpha":1,"saturation":1.024,"colorRed":255,"colorGreen":255,"colorBlue":255,"bloom":0.139,"bloomBrightness":1.206,"bloomBlur":37,"oldFilm":0,"dotFilm":0,"reflectionFilm":0,"glitchFilm":0,"godrayFilm":0};
+changeBg:campus_classroom_morning.jpg -transform={"alpha":1,"saturation":1.024,"colorRed":255,"colorGreen":255,"colorBlue":255,"bloom":0.139,"bloomBrightness":1.206,"bloomBlur":37,"oldFilm":0,"dotFilm":0,"reflectionFilm":0,"glitchFilm":0,"godrayFilm":0} -next;
 changeFigure:aventurine-02.png -id=aventurine -transform={"position":{"x":-603,"y":352},"scale":{"x":1.4,"y":1.4}} -next;
 changeFigure:pearl-03.png -id=pearl -transform={"position":{"x":394,"y":436},"scale":{"x":1.25,"y":1.25}} -next;
 miniAvatar:ratio-01.png;

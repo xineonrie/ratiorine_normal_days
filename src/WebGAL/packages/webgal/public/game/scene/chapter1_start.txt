@@ -1,6 +1,7 @@
 pixiInit;
+: -next;
 bgm:playing_around(loop).mp3;
-changeBg:campus_classroom_morning.jpg -transform={"alpha":1,"saturation":1.024,"colorRed":255,"colorGreen":255,"colorBlue":255,"bloom":0.139,"bloomBrightness":1.206,"bloomBlur":37,"oldFilm":0,"dotFilm":0,"reflectionFilm":0,"glitchFilm":0,"godrayFilm":0};
+changeBg:campus_classroom_morning.jpg -transform={"alpha":1,"saturation":1.024,"colorRed":255,"colorGreen":255,"colorBlue":255,"bloom":0.139,"bloomBrightness":1.206,"bloomBlur":37,"oldFilm":0,"dotFilm":0,"reflectionFilm":0,"glitchFilm":0,"godrayFilm":0} -next;
 changeFigure:aventurine-01.png -id=aventurine01 -transform={"position":{"x":0,"y":352},"scale":{"x":1.4,"y":1.4},"colorRed":255,"colorGreen":255,"colorBlue":255,"bloom":0,"bevelRed":255,"bevelGreen":255,"bevelBlue":255,"oldFilm":0,"dotFilm":0} -next;
 setAnimation:enter -target=aventurine01 -next;
 砂金:呦拉帝奥，早上好啊！ -fontSize=medium;

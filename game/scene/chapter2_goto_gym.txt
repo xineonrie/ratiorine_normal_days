@@ -1,0 +1,47 @@
+: -next;
+changeBg:campus_desks_morning.jpg -transform={"blur":0,"colorRed":224,"colorGreen":242,"colorBlue":206,"bloom":0.297,"bloomBrightness":1.206,"bloomBlur":37,"godrayFilm":0} -next;
+miniAvatar:none -next;
+changeFigure:aventurine-01.png -id=aventurine -transform={"position":{"y":352},"scale":{"x":1.4,"y":1.4}} -next;
+miniAvatar:ratio-01.png;
+拉帝奥:那可是两节体育课。|怎么，你想逃课？;
+miniAvatar:ratio-05.png;
+拉帝奥:哦，是因为你下午要去当篮球宝贝？;
+miniAvatar:none;
+changeFigure:aventurine-02.png -id=aventurine -transform={"position":{"y":352},"scale":{"x":1.4,"y":1.4}} -next;
+砂金:哪来的话，咱们班比赛在下周呢。
+changeFigure:aventurine-01.png -id=aventurine -transform={"position":{"y":352},"scale":{"x":1.4,"y":1.4}} -next;
+砂金:今天的比赛是星核猎手队vs巡海游侠队
+miniAvatar:ratio-02.png;
+拉帝奥:……这都什么队名？;
+miniAvatar:none;
+砂金:就是卡芙卡他们班和波提欧他们班。;
+砂金:倒没什么别的意思，就是想起来你上周出去参加那什么物理比赛了，前面的球赛一点没看，怕你不感兴趣嘛。;
+miniAvatar:ratio-03.png;
+拉帝奥:哼，你还挺贴心。;
+miniAvatar:none;
+changeFigure:aventurine-02.png -id=aventurine -transform={"position":{"y":352},"scale":{"x":1.4,"y":1.4}} -next;
+砂金:嘿嘿，谢谢夸奖！;
+miniAvatar:ratio-01.png;
+拉帝奥:不劳你操心，我决定从现在开始认真观看，等到下周咱们班比赛正好支持你的篮球宝贝事业。;
+miniAvatar:none;
+changeFigure:aventurine-05.png -id=aventurine -transform={"position":{"y":352},"scale":{"x":1.4,"y":1.4}} -next;
+砂金:那种东西有什么好期待的……;
+砂金:不过算了，看在你这么感兴趣的份上，一会看球的时候我坐你旁边给你解说如何？;
+changeFigure:aventurine-01.png -id=aventurine -transform={"position":{"y":352},"scale":{"x":1.4,"y":1.4}} -next;
+砂金:我手里可是有全年级王牌球员的全部详细数据，没人比我更懂校园篮球赛。;
+miniAvatar:ratio-05.png;
+拉帝奥:我还要谢谢你是吧。;
+miniAvatar:none;
+砂金:要不顺手买张球赛彩券，就算支持本人事业了。;
+miniAvatar:ratio-01.png;
+拉帝奥:哼，我看翡翠的惩罚力度还不够让你长记性。;
+miniAvatar:none;
+changeFigure:none -id=aventurine -next;
+:物理老师念书的声音突然大了起来，眼神也瞄向了这对稍显吵闹的同桌。;
+:砂金察觉到一丝危险，只能悻悻地缩回自己的桌子。;
+changeFigure:aventurine-01.png -id=aventurine -transform={"position":{"y":352},"scale":{"x":1.4,"y":1.4}} -next;
+砂金:说好了啊，下午球赛坐我旁边！;
+changeFigure:none -id=aventurine -next;
+changeScene:chapter2_temp_end.txt;
+
+

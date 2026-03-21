@@ -1,10 +1,11 @@
+: -next;
 changeBg:campus_desks_morning.jpg -transform={"blur":0,"colorRed":224,"colorGreen":242,"colorBlue":206,"bloom":0.297,"bloomBrightness":1.206,"bloomBlur":37,"godrayFilm":0} -next;
-miniAvatar:none;
-changeFigure:aventurine-05.png -id=aventurine -transform={"position":{"y":352},"scale":{"x":1.4,"y":1.4}};
-砂金:喂，拉帝奥——;
+miniAvatar:none -next;
+changeFigure:aventurine-05.png -id=aventurine -transform={"position":{"y":352},"scale":{"x":1.4,"y":1.4}} -next;
+砂金:拉帝奥——;
 :见拉帝奥不理他，砂金挠了挠头，又凑近了一点戳了戳。;
-changeFigure:aventurine-05.png -id=aventurine -transform={"position":{"y":352},"scale":{"x":1.6,"y":1.6}};
-砂金:喂，拉帝奥——;
+setTransform:aventurine-06.png -id=aventurine -transform={"position":{"y":352},"scale":{"x":2,"y":2}} -next;
+砂金:喂，拉帝奥！;
 砂金:我认真的！有事跟你说！
-choose:听听什么事:chapter1_lend_notes.txt|还是不理他:chapter1_ignore.txt -next;
+choose:听听什么事:chapter2_invitation_question.txt|还是不理他:chapter2_no_answer_second.txt -next;
 ;

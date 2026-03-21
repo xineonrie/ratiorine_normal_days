@@ -1,0 +1,16 @@
+: -next;
+changeBg:campus_desks_morning.jpg -transform={"blur":0,"colorRed":224,"colorGreen":242,"colorBlue":206,"bloom":0.297,"bloomBrightness":1.206,"bloomBlur":37,"godrayFilm":0} -next;
+miniAvatar:none -next;
+changeFigure:aventurine-01.png -id=aventurine -transform={"position":{"y":352},"scale":{"x":1.4,"y":1.4}} -next;
+miniAvatar:ratio-01.png;
+拉帝奥:到底有什么事？快点说，别打扰我听课。;
+miniAvatar:none;
+砂金:哎呦，我们的学霸大人还需要学这点基础知识呀。;
+miniAvatar:ratio-05.png;
+拉帝奥:怎么？你有什么事要求我？;
+miniAvatar:none;
+changeFigure:aventurine-03.png -id=aventurine -transform={"position":{"y":352},"scale":{"x":1.4,"y":1.4}} -next;
+砂金:瞧你说的，我就想问问。;
+砂金:你想去看下午的校园篮球赛吗？;
+choose:当然要去:chapter2_goto_gym.txt|没那么想去:chapter2_goto_rooftop.txt -next;
+
