@@ -1,0 +1,8 @@
+Game_name:Normal Days;
+Game_key:2880d1e20c49c2;
+Title_img:cover.jpg;
+Title_bgm:summer_pudding.mp3;
+Textbox_theme:imss;
+Game_Logo:;
+Default_Language:;
+Enable_Appreciation:true;
